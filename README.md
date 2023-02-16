@@ -1,2 +1,1 @@
-# tindog
-Tinder for dogs; Bootstrap learning project
+TinDog Starting Files
